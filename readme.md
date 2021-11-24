@@ -12,5 +12,6 @@ dy(res_gy[0])
 ```
 output:
 <audio controls>
-<source src='/mp3/intercooler_dj_jacob.mp3' type='mpeg'>
+<source src='https://github.com/perseu912/work_api/raw/main/mp3/intercooler_dj_jacob.mp3' type='audio/mpeg'>
+Your browser does not support the audio element.
 </audio>
